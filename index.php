@@ -1,9 +1,8 @@
 <?php
 
-  echo "Hello World - Olá mundo!";
-
-  echo "Olá Gabriel!";
-
-
+  echo "Hello World!";
+  
+  echo "Bem-vindo ao meu repositório!";
+  
 ?>
 
